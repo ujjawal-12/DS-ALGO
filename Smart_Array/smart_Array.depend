@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618459993 source:e:\d.s  through c\smart_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618459874 source:e:\d.s  through c\smart_array\code.c
+	<stdio.h>
+
+1618459874 source:e:\d.s  through c\ass-2\smart_array\code.c
+	<stdio.h>
+
+1618459993 source:e:\d.s  through c\ass-2\smart_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
