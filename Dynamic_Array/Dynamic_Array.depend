@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1618516079 source:e:\d.s  through c\ass-3\dynamic_array\code.c
+	<stdio.h>
+
+1618514623 source:e:\d.s  through c\ass-3\dynamic_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
