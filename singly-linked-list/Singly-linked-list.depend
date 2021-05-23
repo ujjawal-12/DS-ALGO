@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1618855730 source:e:\d.s  through c\ass-5\linked_list\singly-linked-list\singly-linked-list\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1618855643 source:e:\d.s  through c\ass-5\linked_list\singly-linked-list\singly-linked-list\function.c
+	<stdlib.h>
+	<stdio.h>
+
+1618855730 source:e:\d.s  through c\ass-5\linked_list\singly-linked-list\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1618857032 source:e:\d.s  through c\ass-5\linked_list\singly-linked-list\function.c
+	<stdlib.h>
+	<stdio.h>
+
