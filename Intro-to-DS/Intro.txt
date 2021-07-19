@@ -1,0 +1,75 @@
+--------------------------DS INTRODUCTION--------------------
+> Data Structure is a particilar way to organize the data in a 
+sequential manner which can be used effecientlly.
+> The concept of DS also boosting the programming skill of
+ any programmer.
+> It also helps us to face real world problem when we have 
+large amount of data it guide us how to store these data in 
+programming world to manage them properly with ex of 
+ds(stack,queue,linked list).
+> By using the concept of ds we can make our program flexible
+ and efficent .
+> It tells about Time complexites.
+--------------------------------------------------------------------------------
+
+-- Types of Data Structure.
+1.)Linear (Dynamic array,linked list,stack,queue)
+2.)non Linear  (Tree,Graph)
+
+----------------------------------------------------------------------------------
+
+--Linear DS
+
+1.)Dynamic array->It is a special type of array which store collection 
+of data in sequentially and whenever need to increase the size of array.
+it increase at run time double of its original size.
+     
+      ## Operation in Dynamic array
+a.) insert()
+b.) update()
+c.) remove()
+d.) view()
+
+2.)Linked List->  Linked list is linear DS. where the data stored in collection of node cointainig two block one for stored data and second one is pointer which point to next node .
+and every node is connectd each other via pointer.
+
+Types of linked list:-
+a.)Linked list.
+b.)Doubly Linked list.
+c.)Circular Linke list.
+d.)Circular doubly linked list.
+
+ ##Operation in Dynamic array
+a.) insert()
+b.) update()
+c.) remove()
+d.) view()
+
+3.) Stack -> Stack is linear data structure which store data in linear. which follow LIFO principal (last in first first out).
+
+ ##Operation in Dynamic array
+a.) Push()
+c.) Pop()
+c.)Isfull()
+d.) view()
+e.)Peek()
+
+##Application of stack.
+- Stacks can be used for expression evaluation.
+- Stacks can be used to check parenthesis matching in an expression.
+- Stacks can be used for Conversion from one form of expression to another.
+- Stacks can be used for Memory Management.
+
+4.)Queue-> Queue is linear data structure which store data in linear. which follow FIFO principal (first  in first out).
+
+##Operation in Dynamic array
+a.) enqueue()
+c.) dequeue()
+c.)Isfull()
+d.) view()
+e.)Peek()
+
+##Application of stack.
+-Cpu Scheduling.
+-Memory management.
+
