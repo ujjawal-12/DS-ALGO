@@ -69,7 +69,37 @@ c.)Isfull()
 d.) view()
 e.)Peek()
 
-##Application of stack.
+##Application of Queue.
 -Cpu Scheduling.
 -Memory management.
+
+------------------------------Sorting-----------------------
+Sorting-> Sorting is a process of arrangging a data in some logical manner.
+                Sorting of any numeric data bydefault from lower to higher value.
+                Sorting of alphabetical bydefault in dictionary manner
+
+# Sorting are two type:-
+a.)External Sorting.
+          -->External sorting are those sorting in which data are very large amount and at a time all are not stored any program in that type data are come in chunks by chunks (streaming) and after that sorting process happend that is called external sorting.
+b.)Internal Sorting.
+        -->internal sorting are those sorting in data are not bulky and stored in program and soritng process happend.
+
+    ## Types of Internal sorting:-
+    a.)Bubble Sort.
+    b.)Modified Bubble sort.
+    c.)Selection Sort.
+    d.)Insertion Sort.
+    e.)Quick Sort.
+    f.)Merge sort.
+    g.)Heap Sort.
+
+----------------------------------Searching-----------------------------------
+
+Searching-> searching is a technique to find a desired item  among various list of item.
+
+## we can do searching by two ways:-
+a.)Linear Search.
+b.)Binary Search.
+
+                
 
